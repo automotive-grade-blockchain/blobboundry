@@ -43,3 +43,16 @@ there is another '1' nearby.  If there is an adjacent '1' then look and
 see if that '1' has any adjacent one, but don't look backwards.  Keep
 searching for adjacent '1' until there isn't a connect '1' and you're
 done!
+
+Given the input above, we can trace the route this algorithm will take.
+
+**0000000000**
+**00111**00000
+00**11111**000
+00**10001**000
+00**11111**000
+0000**101**000
+0000**101**000
+0000**111**000
+0000000000
+0000000000
