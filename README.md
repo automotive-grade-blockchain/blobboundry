@@ -14,7 +14,7 @@ a minimum number of cell Boolean value reads, and third for the
 elegance and clarity of the solution.
 
 # Input
-
+```
 0000000000
 0011100000
 0011111000
@@ -25,7 +25,7 @@ elegance and clarity of the solution.
 0000111000
 0000000000
 0000000000
-
+```
 # Desired Output
 
 Sample Output:
@@ -45,7 +45,7 @@ searching for adjacent '1' until there isn't a connect '1' and you're
 done!
 
 Given the input above, we can trace the route this algorithm will take.
-
+```
 **0000000000**
 **00111**00000
 00**11111**000
@@ -56,3 +56,4 @@ Given the input above, we can trace the route this algorithm will take.
 0000**111**000
 0000000000
 0000000000
+```
